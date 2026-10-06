@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Souhardya Chakraborty</h1>
 <h3 align="center">A passionate backend developer and machine learning enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souhardya1&label=Profile%20views&color=0e75b6&style=flat" alt="souhardya1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=csouhardya&label=Profile%20views&color=0e75b6&style=flat" alt="csouhardya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souhardya1" alt="souhardya1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csouhardya" alt="csouhardya" /></a> </p>
 
 - 🌱 I’m currently learning **GenAi**
 
